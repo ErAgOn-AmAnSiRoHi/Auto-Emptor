@@ -10,6 +10,12 @@
 <h4 align="center">Our Project is performed by the utilization of ROS2 [ver:Humble Hawksbill] and Gazebo, primarily. Other than that, we have utilized OpenCV, cv_bridge, Pyzbar and RVIZ2 for our Project Work.</h4>
 <br>
 
+## Group Members
+* Aman Sirohi [CB.EN.U4AIE21003]
+* Vikhyat Bansal [CB.EN.U4AIE21076]
+* Rakhil ML [CB.EN.U4AIE21048]
+* R Sriviswa [CB.EB.U4AIE21046]
+  <br>
 ## Contents
 * [Spawner Package](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/warehouse_robot_spawner_pkg)
 * [Controller Package](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/warehouse_robot_controller_pkg)
