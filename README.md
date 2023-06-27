@@ -1,7 +1,7 @@
 <h1 align="center"> Auto-Emptor - Your Own Shop Dog</h1>
 <br>
 <br>
-<h3 align="center">SEMESTER-4_TERM PROJECT</h3>
+<h2 align="center">SEMESTER-4_TERM PROJECT</h2>
 <br>
 <h1 align="center">Hi 👋, I'm Aman Sirohi</h1>
 <h2 align="center">From Batch-A Group-1</h2>
