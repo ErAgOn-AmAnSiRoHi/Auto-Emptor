@@ -18,7 +18,7 @@
 
 ## Tools and Libraries
 * Gazebo
-  > 
+  > ```sudo apt install ros-$ROS_DISTRO-gazebo-ros-pkgs```
 * OpenCV
   > ```sudo apt-get install libopencv-dev python3-opencv```
 * PyZBar
