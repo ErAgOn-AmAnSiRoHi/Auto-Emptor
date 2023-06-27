@@ -17,4 +17,12 @@
 * [QR-CODE MODEL](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/QR_Code_Model/texture)
 
 ## Tools and Libraries
-* [OpenCV]
+* Gazebo
+  > 
+* OpenCV
+  > ```sudo apt-get install libopencv-dev python3-opencv```
+* PyZBar
+  > ```pip install pyzbar```
+* cv_bridge
+  > ```sudo apt-get install ros-$ROS_DISTRO-vision-opencv```
+  > ```sudo apt-get install ros-$ROS_DISTRO-cv-bridge```
