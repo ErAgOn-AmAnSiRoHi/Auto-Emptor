@@ -24,5 +24,5 @@
 * PyZBar
   > ```pip install pyzbar```
 * cv_bridge
-  > ```sudo apt-get install ros-$ROS_DISTRO-vision-opencv```
-  > ```sudo apt-get install ros-$ROS_DISTRO-cv-bridge```
+  > ```sudo apt-get install ros-$ROS_DISTRO-vision-opencv```   
+  >    ```sudo apt-get install ros-$ROS_DISTRO-cv-bridge```
