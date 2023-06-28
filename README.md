@@ -16,6 +16,7 @@
 * Rakhil ML [CB.EN.U4AIE21048]
 * R Sriviswa [CB.EB.U4AIE21046]
   <br>
+  
 ## Contents
 * [Spawner Package](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/warehouse_robot_spawner_pkg)
 * [Controller Package](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/warehouse_robot_controller_pkg)
@@ -32,6 +33,11 @@
 * cv_bridge
   > ```sudo apt-get install ros-$ROS_DISTRO-vision-opencv```   
   >    ```sudo apt-get install ros-$ROS_DISTRO-cv-bridge```
+
+## How to Run
+* After creating the desired packages, go to the ros workspace directory.
+* There, do ```colcon build``` or ```colcon build --packages-select <pkg_name>``` if you want to build a specific package instead of all the packages in the workspace.
+* Now, being in the workspace directory, do ```source install/setup.bash```
 
 ## Simulation Video
 https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4aie21003_cb_students_amrita_edu/EaNcJRI3JM1JioUTcdLq7oMB1UJjDvQ6KVX4RLEnZ0elEw?e=qhMlA9
