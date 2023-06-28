@@ -27,8 +27,9 @@ But our Robot has a Camera and it is capable enough to go to the Billing Counter
 * Vikhyat Bansal [CB.EN.U4AIE21076]
 * Rakhil ML [CB.EN.U4AIE21048]
 * R Sriviswa [CB.EB.U4AIE21046]
-  <br>
-  <br>
+
+<br>
+<br>
   
 ## Contents
 * [Spawner Package](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/warehouse_robot_spawner_pkg)
@@ -37,8 +38,9 @@ But our Robot has a Camera and it is capable enough to go to the Billing Counter
 * [QR-CODE MODEL](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/QR_Code_Model/texture)
 
 * [PPT](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/blob/main/ROS_TEAM_1_BATCH_A_END_TERM.pptx)
-  <br>
-  <br>
+
+<br>
+<br>
 
 ## Tools and Libraries
 * Gazebo
