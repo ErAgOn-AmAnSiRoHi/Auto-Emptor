@@ -27,7 +27,8 @@ But our Robot has a Camera and it is capable enough to go to the Billing Counter
 * Vikhyat Bansal [CB.EN.U4AIE21076]
 * Rakhil ML [CB.EN.U4AIE21048]
 * R Sriviswa [CB.EB.U4AIE21046]
-  <br><br>
+  <br>
+  <br>
   
 ## Contents
 * [Spawner Package](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/warehouse_robot_spawner_pkg)
@@ -36,7 +37,8 @@ But our Robot has a Camera and it is capable enough to go to the Billing Counter
 * [QR-CODE MODEL](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/QR_Code_Model/texture)
 
 * [PPT](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/blob/main/ROS_TEAM_1_BATCH_A_END_TERM.pptx)
-  <br><br>
+  <br>
+  <br>
 
 ## Tools and Libraries
 * Gazebo
@@ -48,7 +50,9 @@ But our Robot has a Camera and it is capable enough to go to the Billing Counter
 * cv_bridge
   > ```sudo apt-get install ros-$ROS_DISTRO-vision-opencv```   
   >    ```sudo apt-get install ros-$ROS_DISTRO-cv-bridge```
-<br><br>
+
+<br>
+<br>
 
 ## How to Run
 * After creating the desired packages, go to the ros workspace directory.
@@ -61,7 +65,8 @@ But our Robot has a Camera and it is capable enough to go to the Billing Counter
   > ```ros2 launch warehouse_robot_controller_pkg controller_estimator.launch.py```   
 * *  Then in one more terminal window, we need to run:   
   > ```ros2 run warehouse_robot_spawner_pkg decode_qr```
-<br><br>
+<br>
+<br>
 
 ## Simulation Video (Basic Layout of a Mart)
 https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4aie21003_cb_students_amrita_edu/EaNcJRI3JM1JioUTcdLq7oMBysudWm0ew7rwrRGFZMmaBg?e=qW20nr   
