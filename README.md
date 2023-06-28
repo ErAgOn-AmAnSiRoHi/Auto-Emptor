@@ -23,6 +23,8 @@
 
 * [QR-CODE MODEL](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/tree/main/QR_Code_Model/texture)
 
+* [PPT](https://github.com/ErAgOn-AmAnSiRoHi/Auto-Emptor/blob/main/ROS_TEAM_1_BATCH_A_END_TERM.pptx)
+
 ## Tools and Libraries
 * Gazebo
   > ```sudo apt install ros-$ROS_DISTRO-gazebo-ros-pkgs```
