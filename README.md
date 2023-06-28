@@ -34,3 +34,4 @@
   >    ```sudo apt-get install ros-$ROS_DISTRO-cv-bridge```
 
 ## Simulation Video
+https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4aie21003_cb_students_amrita_edu/EaNcJRI3JM1JioUTcdLq7oMB1UJjDvQ6KVX4RLEnZ0elEw?e=qhMlA9
