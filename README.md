@@ -49,6 +49,6 @@
   > ```ros2 run warehouse_robot_spawner_pkg decode_qr```
 
 ## Simulation Video (Basic Layout of a Mart)
-[https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4aie21003_cb_students_amrita_edu/EaNcJRI3JM1JioUTcdLq7oMB1UJjDvQ6KVX4RLEnZ0elEw?e=qhMlA9](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4aie21003_cb_students_amrita_edu/EaNcJRI3JM1JioUTcdLq7oMBysudWm0ew7rwrRGFZMmaBg?e=qW20nr)
-*** *Better Layout of the Mart with Human Models added as extra obstacles and extra models for decoration sake)
+https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4aie21003_cb_students_amrita_edu/EaNcJRI3JM1JioUTcdLq7oMBysudWm0ew7rwrRGFZMmaBg?e=qW20nr   
+*** Better Layout of the Mart with Human Models added as extra obstacles and extra models for decoration sake)   
 https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4aie21003_cb_students_amrita_edu/EZjKWvG0IzVNvWs4TzDx7ggB86gl3PUX3uX1kzanuVWfxQ?e=KH0Rgi
