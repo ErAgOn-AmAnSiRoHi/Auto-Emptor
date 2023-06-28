@@ -41,9 +41,9 @@
 * Now, in a terminal window, simply type ```ros2 launch <pkg_name> <launch_file_name>```
 * So, in our case, since we have two packages, you will have to start two terminals and initially run:   
   >   > ```ros2 launch warehouse_robot_spawner_pkg gazebo_world.launch.py```   
-  > After the Gazebo simulation has started successfully, we need to run:   
+  After the Gazebo simulation has started successfully, we need to run:   
   >   > ```ros2 launch warehouse_robot_controller_pkg controller_estimator.launch.py```
-  > Then in one more terminal window, we need to run:
+  Then in one more terminal window, we need to run:   
   >   > ```ros2 run warehouse_robot_spawner_pkg decode_qr```
 
 ## Simulation Video
