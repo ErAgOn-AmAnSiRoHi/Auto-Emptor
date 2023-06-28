@@ -18,6 +18,7 @@ Well, our project is consisting of a Mobile Robot (2 Left-Right Wheels and 1 Cas
   <h4 align="center">So, that's it!? It is a decent implementation but not very useful in itself as it is!</h4>
 But our Robot has a Camera and it is capable enough to go to the Billing Counter, scan the QR Code which corresponds to a Payment Gateway (considering modern days advancement in the usage of Online Payments and UPIs) and return the QR Code as it is, in an Output Window and also the decoded message (which is the payment link in our case) in the terminal/shell running the relevant script. All this can be achieved by the user and that too through the comfort of their home.</h4>
 <br>
+<br>
 <h4 align="center">Our Project is performed by the utilization of ROS2 [ver:Humble Hawksbill] and Gazebo, primarily. Other than that, we have utilized OpenCV, cv_bridge, Pyzbar and RVIZ2 for our Project Work.</h4>
 <br>
 
