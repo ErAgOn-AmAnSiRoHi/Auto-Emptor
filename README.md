@@ -38,6 +38,11 @@
 * After creating the desired packages, go to the ros workspace directory.
 * There, do ```colcon build``` or ```colcon build --packages-select <pkg_name>``` if you want to build a specific package instead of all the packages in the workspace.
 * Now, being in the workspace directory, do ```source install/setup.bash```
+* Now, in a terminal window, simply type ```ros2 launch <pkg_name> <launch_file_name>```
+* > So, in our case, since we have two packages, you will have to start two terminals and initially run:
+  >   > ```ros2 launch warehouse_robot_spawner_pkg gazebo_world.launch.py```
+  > After the Gazebo simulation has started successfully, we need to run:
+  >   > ```ros2 launch warehouse_robot_controller_pkg controller_estimator.launch.py```
 
 ## Simulation Video
 https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4aie21003_cb_students_amrita_edu/EaNcJRI3JM1JioUTcdLq7oMB1UJjDvQ6KVX4RLEnZ0elEw?e=qhMlA9
