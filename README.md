@@ -7,9 +7,10 @@
 <h2 align="center">From Batch-A Group-1</h2>
 <h3 align="center">Student at Amrita Vishwa Vidyapeetham, Coimbatore🌟.</h3>
 <br>
-<h4 align="center">Our project might not be upto the real-life implementations as of now, but it has scope for huge improvements and can make the future lives much better. What is it about!?
-Well, our project is consisting of a Mobile Robot (2 Left-Right Wheels and 1 Caster Wheel) which is capable of roaming around in a maze type environment while avoiding collisions with any obstacles.
-So, that's it!? It is a decent implementation but not very useful in itself as it is!
+<h4 align="center">Our project might not be upto the real-life implementations as of now, but it has scope for huge improvements and can make the future lives much better.   
+  What is it about!?   
+Well, our project is consisting of a Mobile Robot (2 Left-Right Wheels and 1 Caster Wheel) which is capable of roaming around in a maze type environment while avoiding collisions with any obstacles.   
+So, that's it!? It is a decent implementation but not very useful in itself as it is!   
 But our Robot has a Camera and it is capable enough to go to the Billing Counter, scan the QR Code which corresponds to a Payment Gateway (considering modern days advancement in the usage of Online Payments and UPIs) and return the QR Code as it is, in an Output Window and also the decoded message (which is the payment link in our case) in the terminal/shell running the relevant script. All this can be achieved by the user and that too through the comfort of their home.</h4>
 <br>
 <h4 align="center">Our Project is performed by the utilization of ROS2 [ver:Humble Hawksbill] and Gazebo, primarily. Other than that, we have utilized OpenCV, cv_bridge, Pyzbar and RVIZ2 for our Project Work.</h4>
