@@ -67,6 +67,8 @@ But our Robot has a Camera and it is capable enough to go to the Billing Counter
   > ```ros2 launch warehouse_robot_controller_pkg controller_estimator.launch.py```   
 * *  Then in one more terminal window, we need to run:   
   > ```ros2 run warehouse_robot_spawner_pkg decode_qr```
+* *  One can also start another script which gives Real-Time Camera Feed in a separate CV Window [Make sure to open another terminal window]:
+  > ```ros2 run warehouse_robot_spawner_pkg camera_read```
 <br>
 <br>
 
