@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Aman Sirohi</h1>
 <h2 align="center">From Batch-A Group-1</h2>
 <h3 align="center">Student at Amrita Vishwa Vidyapeetham, Coimbatore🌟.</h3>
+<h3 align="center">Academic Porgramme: B.Tech in AIE (Artificial Intelligence Engineering)</h3>
 <br>
 <h4 align="center">Our project might not be upto the real-life implementations as of now, but it has scope for huge improvements and can make the future lives much better.</h4> 
   <h4 align="center">What is it about!?</h4>
