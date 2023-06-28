@@ -1,0 +1,3 @@
+Need to Insert the QR Code manually. We tried spawning it automatically along with the other models but there was some issue with that approach and the Gazebo was rigorously getting crashed due to Buffer Overflow or something. Hope it isn't too bothersome.
+
+* * * Delete this File before moving this model to your Gazebo models directory or any other custom directory if need be. It won't effect the build though. * * *
